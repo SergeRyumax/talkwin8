@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SERGERYUMAX-W8</Machine>
+    <WindowsUser>Victor</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>727FCE241B6E35BE997796398E5FB2F6DFCF211EA6CA521CDA59D51786906634</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9e1699b1-9303-4047-ae72-bfe530f468bb_1.0.0.0_neutral__mj2y49482qz0c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9e1699b1-9303-4047-ae72-bfe530f468bb_mj2y49482qz0c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9e1699b1-9303-4047-ae72-bfe530f468bb</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Victor</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-20T21:41:38.251</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\talkwin8.exe">
+      <PackagePath>talkwin8.exe</PackagePath>
+      <Modified>2013-02-20T21:41:38.182</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\talkwin8.pdb">
+      <PackagePath>talkwin8.pdb</PackagePath>
+      <Modified>2013-02-20T21:41:38.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T23:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T23:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-15T23:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T23:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\Assets\Talk_SplashScreen.png">
+      <PackagePath>Assets\Talk_SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-20T21:41:13.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-02-20T21:39:35.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-20T21:41:32.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-02-20T21:39:35.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T19:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-20T21:41:38.215</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
