@@ -22,11 +22,11 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\talkwin8.exe">
       <PackagePath>talkwin8.exe</PackagePath>
-      <Modified>2013-02-20T21:41:38.182</Modified>
+      <Modified>2013-02-21T00:10:23.421</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\talkwin8.pdb">
       <PackagePath>talkwin8.pdb</PackagePath>
-      <Modified>2013-02-20T21:41:38.175</Modified>
+      <Modified>2013-02-21T00:10:23.415</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\Assets\Logo.png">
       <PackagePath>Assets\Logo.png</PackagePath>
@@ -62,7 +62,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2013-02-20T21:39:35.722</Modified>
+      <Modified>2013-02-20T23:38:11.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Victor\development\repository\vtx\talkwin8\talkwin8\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
